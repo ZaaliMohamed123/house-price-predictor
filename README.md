@@ -1,4 +1,3 @@
-```markdown
 # 🏠 House Price Predictor - ML Application
 
 <div align="center">
@@ -570,7 +569,6 @@ Voir le fichier [LICENSE](LICENSE) pour plus de détails.
 Made with ❤️ and ☕ by Mohamed Zaali
 
 </div>
-```
 
 
 
