@@ -1,0 +1,43 @@
+# Environnement virtuel Python
+.venv/
+venv/
+env/
+
+# Fichiers cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Fichiers temporaires et logs
+*.log
+*.tmp
+*.bak
+
+# Fichiers de données temporaires (garder house_data.csv)
+data/*.csv
+!data/house_data.csv
+
+# Plots générés (images temporaires)
+plots/*.png
+plots/*.jpg
+
+# Fichiers IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Fichiers Docker locaux (on garde Dockerfile)
+.dockerignore
+
+# Fichiers de test
+tests/
+*.pytest_cache/
