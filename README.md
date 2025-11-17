@@ -10,7 +10,7 @@
 
 **Application web intelligente de prédiction des prix immobiliers** utilisant Random Forest Regression et une interface Gradio interactive.
 
-[🚀 Démo en ligne](#) | [📖 Documentation](#table-des-matières) | [🐳 Docker Hub](https://hub.docker.com/r/syntaxerror771/house-price-predictor) | [🤗 HuggingFace Space](#)
+[📖 Documentation](#table-des-matières) | [🐳 Docker Hub](https://hub.docker.com/r/syntaxerror771/house-price-predictor) | [🤗 HuggingFace Space](#)
 
 </div>
 
